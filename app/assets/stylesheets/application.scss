@@ -11,3 +11,14 @@
 // Your CSS partials
 @import "components/index";
 @import "pages/index";
+
+
+.container {
+  width: 900px;
+  margin: 0 auto;
+}
+
+.buttons a:hover {
+  text-decoration: none;
+  color: white;
+}
